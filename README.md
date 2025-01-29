@@ -1,9 +1,5 @@
 # Hi, I'm Huzaifa Asad 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=huzaifazz.huzaifazz)
-![GitHub Followers](https://img.shields.io/github/followers/huzaifazz?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/huzaifazz?label=Stars&style=social)
-
 Welcome to my GitHub profile! I'm a passionate Computer Science student at the University of Swabi, currently diving deep into the world of **Data Science** and **Backend Development**. I'm constantly learning and improving my skills, and I am excited to contribute to open-source projects and collaborate with like-minded individuals.
 
 ---
@@ -12,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifazz&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifazz&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=huzaifazz&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=huzaifazz&theme=radical&row=2&column=3)
 
 ---
