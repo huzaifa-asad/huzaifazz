@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 ##  How to Reach Me
 
 - **Email**: [teqtollc@gmail.com](mailto:teqtollc@gmail.com)
-- **LinkedIn**: [Huzaifa Asad](https://www.linkedin.com/in/huzaifa-asad/)
+- **LinkedIn**: [Huzaifa Asad](https://www.linkedin.com/in/huzaifaasad/)
 - **GitHub**: [huzaifazz](https://github.com/huzaifazz)
 
 Feel free to reach out for collaboration or if you want to chat about tech!
