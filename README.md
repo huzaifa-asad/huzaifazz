@@ -1,42 +1,53 @@
-# Hi, I'm Huzaifa Asad 
+# Hi, I'm Huzaifa Asad
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student at the University of Swabi, currently diving deep into the world of **Data Science** and **Backend Development**. I'm constantly learning and improving my skills, and I am excited to contribute to open-source projects and collaborate with like-minded individuals.
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifazz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifazz&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=huzaifazz&theme=radical&row=2&column=3)
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifazz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifazz&layout=compact&theme=radical&langs_count=8)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifazz&theme=radical&hide_border=false)
+
+<!-- Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifazz&theme=react-dark&bg_color=20232a&hide_border=true)
+
+<!-- Repository Stats -->
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifazz&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifazz&theme=radical)
+
+<!-- Profile Details -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifazz&theme=radical)
+
+<!-- Top Repositories -->
+![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=huzaifazz&repo=your-top-repo&theme=radical)
+![Top Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=huzaifazz&repo=another-top-repo&theme=radical)
 
 ---
 
-##  Technologies & Tools I Use
+## Technologies & Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- Top Repositories -->
+![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=huzaifazz&repo=your-top-repo&theme=radical)
+![Top Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=huzaifazz&repo=another-top-repo&theme=radical)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-##  What I'm Interested In
-
-- **Data Science & Machine Learning**: Exploring ways to extract meaningful insights from data and applying machine learning algorithms.
-- **Backend Development**: Working with frameworks like Django and FastAPI to build robust backend systems.
-- **Python**: My primary language of choice, with a strong focus on building scalable and efficient solutions.
-- **Automation**: Using Python to automate repetitive tasks and create tools for efficiency.
+<!-- Trophy Stats -->
+![Trophy Stats](https://github-profile-trophy.vercel.app/?username=huzaifazz&theme=radical&row=2&column=4&margin-w=15&margin-h=15)
 
 ---
 
-##  I’m Currently Learning
+## I’m Currently Learning
 
 - Advanced Data Science techniques and Machine Learning algorithms.
 - Deep diving into Artificial Intelligence and Natural Language Processing (NLP).
@@ -45,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 
 ---
 
-##  I’m Looking to Collaborate On
+## I’m Looking to Collaborate On
 
 - Open-Source Projects related to data science, backend development, or Python.
 - Collaborative projects where I can improve my skills and contribute to meaningful work.
@@ -53,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 
 ---
 
-##  How to Reach Me
+## How to Reach Me
 
 - **Email**: [teqtollc@gmail.com](mailto:teqtollc@gmail.com)
 - **LinkedIn**: [Huzaifa Asad](https://www.linkedin.com/in/huzaifaasad/)
@@ -63,13 +74,12 @@ Feel free to reach out for collaboration or if you want to chat about tech!
 
 ---
 
-##  Fun Fact
+## Fun Fact
 
 I once built a Python script that automated my daily routine tasks, saving me hours each week. Efficiency is key!
 
 ---
 
-##  Let's Build Something Amazing Together!
+## Let's Build Something Amazing Together
 
 Feel free to explore my repositories, contribute, or simply get in touch with me. Let's build something amazing together!
-
