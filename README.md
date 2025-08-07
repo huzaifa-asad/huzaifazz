@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Huzaifa+Asad+;Backend+Software+Developer+;I%27m+from+Pakistan;Currently+studying+at+UOSwabi+;+&color=58A6FF,79C0FF,A5A5FF,D2A8FF,F778BA&background=0D1117&multiline=false&repeat=true" alt="Typing SVG" />
 </div>
 
+---
+
 <!-- Contribution Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifazz&theme=react-dark&bg_color=20232a&hide_border=true)
 
