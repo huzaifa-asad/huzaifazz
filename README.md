@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 
 ---
 
-## GitHub Stats
+<!-- Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifazz&theme=react-dark&bg_color=20232a&hide_border=true)
 
 <!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifazz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
@@ -14,9 +15,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifazz&theme=radical)
-
-<!-- Contribution Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifazz&theme=react-dark&bg_color=20232a&hide_border=true)
 
 <!-- Repository Stats -->
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifazz&theme=radical)
@@ -58,6 +56,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 
 ---
 
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=huzaifazz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
 ## How to Reach Me
 
 - **Email**: [teqtollc@gmail.com](mailto:teqtollc@gmail.com)
@@ -65,15 +67,3 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at the U
 - **GitHub**: [huzaifazz](https://github.com/huzaifazz)
 
 Feel free to reach out for collaboration or if you want to chat about tech!
-
----
-
-## Fun Fact
-
-I once built a Python script that automated my daily routine tasks, saving me hours each week. Efficiency is key!
-
----
-
-## Let's Build Something Amazing Together
-
-Feel free to explore my repositories, contribute, or simply get in touch with me. Let's build something amazing together!
