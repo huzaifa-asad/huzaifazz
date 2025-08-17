@@ -5,25 +5,25 @@
 ---
 
 <!-- Contribution Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifazz&theme=react-dark&bg_color=20232a&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-asad&theme=react-dark&bg_color=20232a&hide_border=true)
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifazz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifa-asad&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifazz&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-asad&layout=compact&theme=radical&langs_count=8)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifazz&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-asad&theme=radical)
 
 <!-- Repository Stats -->
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifazz&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa-asad&theme=radical)
 
 <!-- Profile Details -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifazz&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa-asad&theme=radical)
 
 <!-- Trophy Stats -->
-![Trophy Stats](https://github-profile-trophy.vercel.app/?username=huzaifazz&theme=radical&row=2&column=4&margin-w=15&margin-h=15)
+![Trophy Stats](https://github-profile-trophy.vercel.app/?username=huzaifa-asad&theme=radical&row=2&column=4&margin-w=15&margin-h=15)
 
 ---
 
@@ -56,7 +56,7 @@
 
 ---
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=huzaifazz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=huzaifa-asad&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
@@ -64,6 +64,6 @@
 
 - **Email**: [teqtollc@gmail.com](mailto:teqtollc@gmail.com)
 - **LinkedIn**: [Huzaifa Asad](https://www.linkedin.com/in/huzaifa-asad-dev/)
-- **GitHub**: [huzaifazz](https://github.com/huzaifazz)
+- **GitHub**: [huzaifa-asad](https://github.com/huzaifa-asad)
 
 Feel free to reach out for collaboration or if you want to chat about tech!
